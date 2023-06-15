@@ -1,0 +1,10 @@
+  <hat_name>:
+    enabled: true
+    display_name: "<full_hat_name>"
+    permission: <root>.<hat_name>
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: <hat_name>
+    behaviours:
+      hat: true

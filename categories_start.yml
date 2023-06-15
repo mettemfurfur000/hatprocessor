@@ -1,0 +1,10 @@
+info:
+  namespace: put_here
+categories:
+  hats:
+    enabled: true
+    skip_if_already: false
+    icon: put_here.haz_mask
+    name: "Hats"
+    permission: default
+    items:

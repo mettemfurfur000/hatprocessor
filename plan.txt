@@ -1,0 +1,18 @@
+root
+    configs
+        _dictionaries
+            en.yml
+            ru.yml
+            ...
+        items.yml
+    resourcepack
+        mttffr_hats
+            models
+                <a>.json
+            textures
+                <a>.png
+
+
+1) take properties file
+2) take matchItems, model, nbt.display.Name
+3) take model file
